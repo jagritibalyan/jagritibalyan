@@ -3,7 +3,7 @@
 -  🌱 I’m currently learning and exploring myself in the fields of Frontend and Backend Development. 
 -  ⚡ Fun fact: I love to solve algorithmic problems and talk about fashion.
 
-### I am an Postgrad Student at IGNOU in MCA.
+### I am a Postgrad Student at IGNOU in MCA.
 
 ### Connect with me:
 <!--
