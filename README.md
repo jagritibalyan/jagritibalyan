@@ -11,6 +11,7 @@
 -->
 <a href="https://www.linkedin.com/in/jagritibalyan/"><img align="left" alt="LinkedIn - jagritibalyan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
+</br>
 
 ## &#x1f4c8; GitHub Stats
 <img align="left" alt="Jagriti Balyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jagritibalyan&show_icons=true&theme=chartreuse-dark&count_private=true" />
